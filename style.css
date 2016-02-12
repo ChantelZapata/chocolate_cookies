@@ -1,0 +1,32 @@
+body{
+	background-color: #ffeeee;
+	border: solid 2px #000000;
+	padding: 60px;
+}
+h1 {
+	color: #c95c6d;
+	font-family: Helvetica, Arial, san-serif;
+	font-size: 34px;
+}
+h2 {
+	color: #000000;
+	font-family: Helvetica, Arial, san-serif;
+	font-size: 20px;
+}
+h3 {
+	color: #887777;
+	font-family: Helvetica, Arial, san-serif;
+	font-size: 20px;
+}
+p {
+	font-family: Georgia, Times, serif;
+}
+li {
+	font-family: Georgia, Times, serif;
+}
+a {
+	color: #900000;
+}
+img {
+	border: solid 2px #000000;
+}
